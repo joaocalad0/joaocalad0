@@ -7,11 +7,10 @@ I'm passionate about cybersecurity and currently studying computer science. Hail
 - 🌍 Location: Portugal
 - 💼 Occupation: Computer Science Student
 - 🎓 Education: Studying Computer Science
-- 💻 Tech Stack: [Your Favorite Technologies]
 
 ## TryHackMe Badge
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Gusion.0.png" alt="TryHackMe)
+![TryHackMe Badge](https://tryhackme.com/badge/2417664)
 
 ## Programming Languages
 
