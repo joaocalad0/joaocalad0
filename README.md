@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and currently studying computer science. Hail
 
 ## Programming Languages
 
- ![](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)
+  - ![](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)
   - ![](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
   - ![](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php&logoColor=white)
   - ![](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white)
