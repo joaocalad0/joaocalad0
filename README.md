@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and currently studying computer science. Hail
 
 ## TryHackMe Badge
 
-![TryHackMe Badge](https://tryhackme.com/badge/2417664)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/2417664.js)
 
 ## Programming Languages
 
