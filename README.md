@@ -15,11 +15,11 @@ I'm passionate about cybersecurity and currently studying computer science. Hail
 
 ## Programming Languages
 
-![Java](https://img.shields.io/badge/Java-Intermediate-brightgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
-![PHP](https://img.shields.io/badge/PHP-Beginner-orange)
-![HTML](https://img.shields.io/badge/HTML-Intermediate-red)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-purple)
+  - ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+  - ![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white)
+  - ![HTML](https://img.shields.io/badge/-HTML-blue?logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/-CSS-blueviolet?logo=css3&logoColor=white)
 
 ## Interests
 
