@@ -5,8 +5,9 @@ I'm passionate about cybersecurity and currently studying computer science. Hail
 ## About Me
 
 - 🌍 Location: Portugal
+- 🌱 I’m currently learning Computer Science!
 - 💼 Occupation: Computer Science Student
-- 🎓 Education: Studying Computer Science
+
 
 ## TryHackMe Badge
 
