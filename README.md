@@ -22,6 +22,7 @@ I'm passionate about cybersecurity and currently studying computer science. Hail
   - ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=for-the-badge&logo=css3&logoColor=white)
 
 
+
 ## Interests
 
 - 📚 Reading
