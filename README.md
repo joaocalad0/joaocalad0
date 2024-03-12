@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and currently studying computer science. Hail
 
 - 🌍 Location: Portugal
 - 🌱 I’m currently learning Computer Science!
-- 💼 Occupation: Computer Science Student
+- 💼 Occupation: I'm currently work in Xamarin with C#
 
 
 ## TryHackMe Badge
