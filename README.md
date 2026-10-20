@@ -1,8 +1,7 @@
 # Hello, I'm João Calado! 👋
 
 # 💫 About Me:
-🔭 I'm currently work on a Mobile Application in Xamarin-Forms with C#<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Computer Science<br>💬 Ask me about something<br>⚡ Fun fact -“In another life I was a metalcore singer”
-
+🔭 I'm currently work on a Mobile Application in Xamarin-Forms with C#<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Computer Science<br>💬 Ask me about something<br>⚡ 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Fyodor_0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-calado-283660229) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/gusion013) 
